@@ -27,6 +27,7 @@ mientras que otros pueden ser más simples y no garantizar una entrega confiable
   --Tipo de Red: Los protocolos pueden ser específicos para redes locales (LAN) o redes amplias (WAN). Por ejemplo, Ethernet es un protocolo
 común en LAN, mientras que BGP es utilizado en redes WAN.
   --Orientación de Flujo: Los protocolos pueden ser unidireccionales o bidireccionales. Un protocolo unidireccional solo permite la transferencia de datos en una dirección, mientras que un protocolo bidireccional permite la comunicación en ambas direcciones.
+  --Cantidad de participantes o nodos que hay en la comunicación:unicast multicast, broadcast
 
 Tipos de clasificación:
 
@@ -36,6 +37,7 @@ Tipos de clasificación:
   --Detección y Corrección de Errores
   --Tipo de Red
   --Orientación de Flujo
+  --Cantidad de participantes o nodos que hay en la comunicación
 
 Protocolos principales:
 
