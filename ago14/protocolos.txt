@@ -8,11 +8,26 @@ situaciones para lograr una comunicación eficiente y confiable.
 
 Criterios de clasificación:
 
+Pueden clasificarse en función de varios criterios, que ayudan a organizar y comprender su diversidad y sus aplicaciones.
 
-  
+  --Nivel OSI o Capa de Funcionamiento: Los protocolos pueden clasificarse según la capa del modelo OSI (Open Systems Interconnection)
+en la que operan. El modelo OSI divide las funciones de red en siete capas, desde la física hasta la de aplicación. Algunos protocolos
+se encuentran en capas específicas, como TCP/IP en la capa de transporte y HTTP en la capa de aplicación.
+  --Tipo de Comunicación: Los protocolos pueden ser orientados a conexión o sin conexión. Los protocolos orientados a conexión establecen
+una conexión antes de transferir datos, lo que garantiza una comunicación confiable y ordenada, como TCP. Los protocolos sin conexión
+simplemente envían datos sin establecer una conexión previa, como UDP.
+  --Rol en la Comunicación: Los protocolos pueden ser de control o de datos. Los protocolos de control se utilizan para establecer y
+gestionar la comunicación, como ARP (Address Resolution Protocol). Los protocolos de datos se encargan de la transferencia efectiva
+de la información, como HTTP.
+  --Función Principal: Los protocolos pueden ser de enrutamiento, transporte, aplicación, gestión, seguridad, etc. Los protocolos de
+enrutamiento, como OSPF, gestionan cómo se envían los datos a través de una red. Los protocolos de transporte, como TCP y UDP, manejan
+la transferencia de datos. Los protocolos de aplicación, como HTTP y SMTP, se utilizan para servicios específicos.
+  --Detección y Corrección de Errores: Algunos protocolos incluyen mecanismos para detectar y corregir errores en la transmisión de datos,
+mientras que otros pueden ser más simples y no garantizar una entrega confiable.
+
   Tipos de clasificación:
 
-  
+
 Protocolos principales:
 
 --TCP/IP (Transmission Control Protocol/Internet Protocol): Es el conjunto de protocolos utilizado en Internet para la comunicación
@@ -31,3 +46,4 @@ Referencias:
 
 --https://autmix.com/blog/que-es-protocolo-red
 --https://openwebinars.net/blog/protocolo-de-red-que-es-tipos-y-caracteristicas/
+--https://www.tokioschool.com/noticias/tipos-redes-informaticas/
