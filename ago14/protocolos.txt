@@ -24,9 +24,18 @@ enrutamiento, como OSPF, gestionan cómo se envían los datos a través de una r
 la transferencia de datos. Los protocolos de aplicación, como HTTP y SMTP, se utilizan para servicios específicos.
   --Detección y Corrección de Errores: Algunos protocolos incluyen mecanismos para detectar y corregir errores en la transmisión de datos,
 mientras que otros pueden ser más simples y no garantizar una entrega confiable.
+  --Tipo de Red: Los protocolos pueden ser específicos para redes locales (LAN) o redes amplias (WAN). Por ejemplo, Ethernet es un protocolo
+común en LAN, mientras que BGP es utilizado en redes WAN.
+  --Orientación de Flujo: Los protocolos pueden ser unidireccionales o bidireccionales. Un protocolo unidireccional solo permite la transferencia de datos en una dirección, mientras que un protocolo bidireccional permite la comunicación en ambas direcciones.
 
-  Tipos de clasificación:
+Tipos de clasificación:
 
+  --Nivel OSI o Capa de Funcionamiento
+  --Rol en la Comunicación
+  --Función Principal
+  --Detección y Corrección de Errores
+  --Tipo de Red
+  --Orientación de Flujo
 
 Protocolos principales:
 
