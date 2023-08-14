@@ -1,0 +1,33 @@
+Protocolos de redes de informacion
+
+Definición:
+
+Es un conjunto de reglas y convenciones que define cómo los dispositivos y sistemas de una red se comunican entre sí.
+Estos protocolos establecen el formato y la secuencia de los mensajes intercambiados, así como las acciones a seguir en diferentes
+situaciones para lograr una comunicación eficiente y confiable.
+
+Criterios de clasificación:
+
+
+  
+  Tipos de clasificación:
+
+  
+Protocolos principales:
+
+--TCP/IP (Transmission Control Protocol/Internet Protocol): Es el conjunto de protocolos utilizado en Internet para la comunicación
+entre dispositivos. Incluye el protocolo TCP para la transmisión confiable de datos y el protocolo IP para el enrutamiento y la
+entrega de paquetes.
+--HTTP (Hypertext Transfer Protocol): Utilizado para la transferencia de documentos y recursos en la World Wide Web. Define cómo los
+navegadores web solicitan y reciben páginas web de servidores.
+--FTP (File Transfer Protocol): Empleado para la transferencia de archivos entre un cliente y un servidor, permitiendo la descarga y
+carga de archivos de manera remota.
+--DHCP (Dynamic Host Configuration Protocol): Protocolo que asigna automáticamente direcciones IP y otros parámetros de configuración
+a dispositivos en una red.
+--DNS (Domain Name System): Protocolo que traduce nombres de dominio legibles para los humanos en direcciones IP numéricas utilizadas
+por las máquinas para localizar recursos en Internet.
+
+Referencias:
+
+--https://autmix.com/blog/que-es-protocolo-red
+--https://openwebinars.net/blog/protocolo-de-red-que-es-tipos-y-caracteristicas/
